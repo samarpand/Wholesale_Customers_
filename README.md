@@ -1,5 +1,5 @@
 # Wholesale_Customers_
-Implement KMeans Clustering. Implement PCA. Implement XGBoost Classifier.
+Implementing KMeans Clustering. Implement PCA. Implement XGBoost Classifier.
 
 Context: The data set refers to clients of a wholesale distributor. It includes the annual spending in monetary units on diverse product categories.
 
